@@ -5,6 +5,15 @@ This repository documents my participation in the **ZEKTA SDK Build Contest (202
 
 The goal was to evaluate setup, testnet performance, and privacy transaction flow using the SDK before Zekta's mainnet release.
 
+
+📌 Contest Tag: **#ZEKTAcontest #ZEKTA #ZKSwapSDK #PrivacyTransaction**
+
+## Files
+- `docs/report/ZEKTA_Feedback_Report.md` → Main feedback report  
+- `docs/about.md` → Tester profile and notes  
+- `docs/notes.md` → Additional findings and observations  
+
+---
 ---
 
 ## 🧪 Test Focus
