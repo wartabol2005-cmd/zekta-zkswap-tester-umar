@@ -11,8 +11,8 @@ The goal was to evaluate setup, testnet performance, and privacy transaction flo
 ## Files
 - `docs/report/ZEKTA_Feedback_Report.md` → Main feedback report  
 - `docs/about.md` → Tester profile and notes  
-- `docs/notes.md` → Additional findings and observations  
-
+- `docs/notes.md` → Additional findings and observations
+  
 ---
 ---
 
