@@ -35,13 +35,20 @@ The goal was to understand how the SDK handles **transaction privacy**, **user s
 
 ---
 
-## 🧾 Conclusion
-
-Even as a **non-coder tester**, this SDK feels well-designed for privacy transactions.  
-It gives a strong foundation for future builders aiming to create secure, anonymous, and verifiable DeFi systems.  
-Contributing through testing helps ensure a stable mainnet launch for the Zekta ecosystem.
-
 ---
+
+## 🧩 Conclusion
+
+Overall, the **ZEKTA ZKSWAP SDK (Private Transactions)** provides a solid foundation for exploring privacy-oriented swap transactions.  
+From my testing, I found that:
+
+- ✅ Setup and testing flow were straightforward once dependencies were installed.  
+- 🧠 Documentation could benefit from more step-by-step examples for new testers.  
+- 🔐 Privacy configurations worked as intended, with clear parameter visibility.  
+- 🚀 Testnet execution showed stable performance and consistent transaction behavior.  
+
+In conclusion, the SDK is **ready for further development and integration testing**, especially for those interested in **ZK-based private swaps**.  
+Future improvements could focus on clearer examples, automated test scripts, and improved error reporting for smoother onboarding.
 
 **Tester:** Umar  
 **Focus:** ZKSWAP (Private Transactions)  
