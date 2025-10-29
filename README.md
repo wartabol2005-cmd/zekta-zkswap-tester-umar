@@ -1,46 +1,58 @@
-# **ZEKTA SDK Build Contest — ZKSWAP Testing Report**
+# ⚡ ZEKTA ZKSWAP SDK Tester Report
 
-### 👤 Author: **Umar**  
-### 🧩 Role: **Tester**  
-### 🔒 SDK Focus: **ZKSWAP (Private Transactions)**  
-### 🗓️ Date: **October 2025**
+## 🧭 Overview
+This repository documents my participation in the **ZEKTA SDK Build Contest (2025)** as an independent **tester** focusing on the **ZKSWAP SDK** — a module designed for private DeFi transactions using zero-knowledge proofs.
 
----
-
-## **About This Project**
-This repository is created for the **ZEKTA SDK Build Contest**.  
-It focuses on **testing and evaluating** the ZKSWAP SDK — Zekta’s privacy-first swap and transaction framework.
-
-Although this is not a coding-based project, it contributes to the contest by providing **practical testing, usability feedback, and improvement suggestions** for the SDK before mainnet deployment.
+The goal was to evaluate setup, testnet performance, and privacy transaction flow using the SDK before Zekta's mainnet release.
 
 ---
 
-## **Repository Contents**
-- `ZEKTA_Feedback_Report.md` → Full feedback and testing documentation.  
-- `docs/about.md` → Overview and project background.  
-- `docs/notes.md` → Testing notes and general observations.  
+## 🧪 Test Focus
+- **SDK Tested:** ZKSWAP (Private Transactions)  
+- **Testing Role:** Independent Non-Dev Tester  
+- **Objective:** Evaluate the stability, setup process, and user experience of ZK-based private swaps.  
 
 ---
 
-## **How to Use**
-1. Visit the [Official Zekta SDK Repository](https://github.com/zektaio/zekta-sdk).  
-2. Explore the **ZKSWAP SDK** folder for integration and setup.  
-3. Compare testing notes with your own experiments or SDK improvements.  
-4. Contribute additional feedback via issues or pull requests.
+## 🔍 Summary of Findings
+| Aspect | Observation | Feedback |
+|:-------|:-------------|:----------|
+| **Setup** | Easy to install after dependency setup | Add more beginner-friendly setup steps |
+| **Privacy Layer** | Private transaction logic works well | Could add more config examples |
+| **Error Logs** | Clear enough for debugging | Add human-readable messages |
+| **Performance** | Smooth on testnet | Minor improvements on speed possible |
 
 ---
 
-## **Key Highlights**
-- Focused on **transaction privacy testing** and documentation clarity.  
-- Identified areas for **improvement in setup guidance and examples**.  
-- Suggested a **demo sandbox** for easier community testing.  
+## 📘 Repository Structure
+```bash
+zekta-zkswap-tester-umar/
+│
+├── README.md                 # Project overview
+├── docs/
+│   ├── about.md              # Project description
+│   └── notes.md              # Testing notes and feedback
 
----
+💡 Suggestions
 
-## **Submission**
-This repository is submitted to the **#ZEKTAcontest** as a tester contribution.  
-Find more details and official updates from [@zektaio](https://x.com/zektaio).
+Add a Quick Test CLI Command for testers.
 
----
+Include demo video or flow diagram for first-time users.
 
-🛠️ *"Building the future of private DeFi — one test at a time."*
+Expand the documentation with integration examples.
+
+🧑‍💻 Tester Information
+
+Name: Umar
+Role: SDK Tester (Non-Developer)
+Focus: ZKSWAP — Private Transactions
+Contest: ZEKTA SDK Build Contest 2025
+
+🏁 Conclusion
+
+Testing ZEKTA’s SDK gave a clear view of how privacy-focused swaps can be implemented effectively.
+Even for testers without deep coding skills, the experience was accessible and informative — showing the potential of Zekta’s zero-knowledge ecosystem.
+
+🛠️ Repository maintained by Umar as part of the ZEKTA SDK Build Contest testing initiative
+│
+└── report/                   # (optional) feedback report or future integrations
